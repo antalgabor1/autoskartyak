@@ -1,0 +1,32 @@
+img{
+    height: 200px;
+    width: 300px;
+}
+
+
+body{
+    background-image: url(pics/jimmy1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
